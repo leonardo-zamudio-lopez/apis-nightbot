@@ -26,4 +26,4 @@ MIT
 ## APIs List
 API | Description | Command | Additional queries | Source Code
 --- | ----------- | ------- | ------------------ | -----------
-Randog Breed | Random dog breed generator | !addcom !randogbreed $(urlfetch http://randogbreed.herokuapp.com/index.php?query=$(query)) | credits |
+Randog Breed | Random dog breed generator | !addcom !randogbreed $(urlfetch http://randogbreed.herokuapp.com/index.php?query=$(query)) | credits | https://github.com/leonardo-zamudio-lopez/apis-nightbot/blob/master/randogbreed.php
